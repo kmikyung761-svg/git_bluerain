@@ -1,5 +1,6 @@
 동해물과 백두산이 마르고 닳도록ㄱ
 I am a boy
+you are a girl
 
 
 
@@ -7,5 +8,7 @@ I am a boy
 
 
 
-:q
+
+
+
 
