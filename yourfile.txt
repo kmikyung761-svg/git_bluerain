@@ -1,0 +1,6 @@
+vi yourfile.txt
+신규 파일 push 하기
+
+
+
+git status
